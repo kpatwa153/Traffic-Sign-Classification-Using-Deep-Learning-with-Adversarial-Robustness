@@ -26,7 +26,7 @@
   <p align="center">
     In today’s world, we all are moving towards online self-driving cars and anything we can do to improve the self-driving cars will make the world even safer. We understand that a lot of companies are working on self-driving cars, but they cannot think of everything. Being a data scientist and with the opportunity given to us with this project, motivated us to work on improving the sign detections methods. 
     <br />
-    <a href="https://github.com/ruc-practical-ai/fall-2024-final-project-kpatwa153"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kpatwa153/Traffic-Sign-Classification-Using-Deep-Learning-with-Adversarial-Robustness?tab=readme-ov-file"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
