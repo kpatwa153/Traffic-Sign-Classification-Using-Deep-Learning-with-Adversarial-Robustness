@@ -158,7 +158,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-- Kenil Patwa - [@kenil-patwa-604159191](https://www.linkedin.com/in/kenil-patwa-604159191/) - kenilpatwa01@gmail.com
+- Kenil Patwa - [@kenil-patwa-604159191](https://www.linkedin.com/in/kenil-patwa-604159191/) - kenilpatwa1209@gmail.com
 - Naman Singh - [@namansingh8998](https://www.linkedin.com/in/namansingh8998/) - namansingh2623@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
