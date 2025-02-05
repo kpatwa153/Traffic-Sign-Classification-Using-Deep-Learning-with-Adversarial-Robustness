@@ -68,13 +68,13 @@ The project guarantees that the model not only performs well on clean data but a
 ## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [![Python]](https://docs.python.org/3/)
-* [![PyTorch]](https://pytorch.org/docs/stable/index.html)
-* [![Pandas]](https://pandas.pydata.org/docs/)
-* [![Pillow]](https://pillow.readthedocs.io/en/stable/)
-* [![Matplotlib]](https://matplotlib.org/stable/index.html)
-* [![NumPy]](https://numpy.org/doc/)
-* [![Torchvision]](https://pytorch.org/vision/stable/index.html)
+* [Python](https://docs.python.org/3/)
+* [PyTorch](https://pytorch.org/docs/stable/index.html)
+* [Pandas](https://pandas.pydata.org/docs/)
+* [Pillow](https://pillow.readthedocs.io/en/stable/)
+* [Matplotlib](https://matplotlib.org/stable/index.html)
+* [NumPy](https://numpy.org/doc/)
+* [Torchvision](https://pytorch.org/vision/stable/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
